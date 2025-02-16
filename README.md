@@ -1,7 +1,7 @@
 # Simple CRUD Blog App
 
 This is a simple blog application that allows you to perform CRUD (Create, Read, Update, Delete) operations on blog posts.
-![Blog Preview](assets/demo.png)
+![Blog Preview](src/assets/demo.png)
 
 ## Features
 
